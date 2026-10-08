@@ -1,5 +1,9 @@
 \# 🔐 Phishing URL Detector
 
+## 🚀 Live Demo
+
+👉 [Try the Phishing URL Detector](https://phishing-url-detector-ae7r.onrender.com)
+
 
 
 A beginner-friendly cybersecurity web application that analyzes URLs and identifies common indicators associated with phishing or suspicious websites.
